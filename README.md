@@ -1,10 +1,19 @@
 # Patch the XSS Game
 
-This local web app is deployed to Google App Engine at https://patch-the-xss-game.appspot.com
-
 **Zihan Qu**
 
 **zqu6@jh.edu**
+
+
+#### This local web app is deployed to Google App Engine at https://patch-the-xss-game.appspot.com
+
+### Techincal Stack: 
+- Flask
+- Python
+- Javascript
+- HTML
+- CSS
+- AJAX
 
 
 ### Content Security Policy Part:
